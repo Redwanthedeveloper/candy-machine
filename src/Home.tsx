@@ -23,10 +23,7 @@ import {
 } from "./candy-machine";
 
 //my imports
-import { Container, Row, Col } from "react-bootstrap";
 import "./styles/banner.css";
-import image from "./assets/0.png";
-import landingIcon from "./assets/ico_1.gif";
 import banner from "./assets/banner.png";
 const ConnectButton = styled(WalletDialogButton)``;
 

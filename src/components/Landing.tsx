@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "../styles/landing.css";
-import image from "../assets/WONDER-WOMAN-Main2.png";
 import landingIcon from "../assets/ico_1.gif";
 
 const Landing = () => {

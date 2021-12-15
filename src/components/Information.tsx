@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import "../styles/information.css";
 import image1 from "../assets/1.png";
 import image2 from "../assets/2.png";
-import image3 from "../assets/3.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 const Information = () => {

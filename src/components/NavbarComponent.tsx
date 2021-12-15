@@ -2,12 +2,7 @@ import React from "react";
 import {
   Navbar,
   Container,
-  Offcanvas,
-  Nav,
-  NavDropdown,
-  Form,
-  FormControl,
-  Button,
+  Nav
 } from "react-bootstrap";
 import "../styles/navbar.css";
 import navIcon from "../assets/icon.gif";

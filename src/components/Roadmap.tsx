@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "../styles/roadmap.scss";
-import roadmapImage from "../assets/0.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 

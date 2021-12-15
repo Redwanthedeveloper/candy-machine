@@ -6,7 +6,6 @@ import NavbarComponent from "./components/NavbarComponent";
 import Landing from "./components/Landing";
 import Description from "./components/Description";
 import Information from "./components/Information";
-import Community from "./components/Community";
 import Roadmap from "./components/Roadmap";
 import About from "./components/About";
 import Footer from "./components/Footer";
